@@ -1,2 +1,2 @@
-# Pluiralsight-example
+# Pluralsight-example
 Just doing stuff rn tbh
