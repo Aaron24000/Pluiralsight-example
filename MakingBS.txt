@@ -1,3 +1,0 @@
-Just a lil something something for this git version control course! I will do away with Ubuntu and permenantly move to the terminal
-Adding stuff for git changes
-502-change-me
